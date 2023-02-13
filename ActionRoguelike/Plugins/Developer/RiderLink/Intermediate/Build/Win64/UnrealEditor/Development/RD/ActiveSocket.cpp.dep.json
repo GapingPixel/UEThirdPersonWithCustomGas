@@ -1,12 +1,12 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\activesocket.cpp",
+        "Source": "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\activesocket.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\activesocket.h",
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\simplesocket.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\activesocket.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\simplesocket.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\ucrt\\sys\\stat.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\ucrt\\corecrt.h",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\vcruntime.h",
@@ -150,12 +150,12 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\um\\ws2tcpip.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\shared\\ws2ipdef.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\shared\\in6addr.h",
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\host.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\host.h",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cstdint",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\yvals_core.h",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xkeycheck.h",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\stdint.h",
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\stattimer.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\clsocket\\src\\stattimer.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\ucrt\\time.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.18362.0\\ucrt\\corecrt_wtime.h"
         ],

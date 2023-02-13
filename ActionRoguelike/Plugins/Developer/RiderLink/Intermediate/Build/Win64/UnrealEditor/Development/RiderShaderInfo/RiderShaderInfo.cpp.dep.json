@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.cpp",
+        "Source": "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\ridershaderinfo\\definitions.h",
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\ridershaderinfo\\definitions.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\modules\\moduleinterface.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -458,6 +458,8 @@
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\profilingdebugging\\memorytrace.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\containers\\lockfreefixedsizeallocator.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\memstack.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\sanitizer\\asan_interface.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\sanitizer\\common_interface_defs.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\scopeexit.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\launder.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\hal\\platformaffinity.h",

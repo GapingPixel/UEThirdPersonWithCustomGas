@@ -1,28 +1,28 @@
-"I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderGameControl\Private\RiderGameControl.cpp"
+I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderGameControl\Private\RiderGameControl.cpp
 /I .
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderGameControl\Private"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include"
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderGameControl\Private
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol"
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public"
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderLink\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\HeadMountedDisplay\UHT
 /I Runtime\HeadMountedDisplay\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality\UHT
@@ -293,7 +293,7 @@
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\ToolWidgets\UHT
 /I Developer\ToolWidgets\Public
 /I Runtime\Windows
-/I "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderGameControl\Public"
+/I I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Source\RiderGameControl\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -302,9 +302,9 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\Definitions.h"
-/Fo"I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\RiderGameControl.cpp.obj"
-/sourceDependencies "I:\Unreal Projects\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\RiderGameControl.cpp.dep.json"
+/FI"I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\Definitions.h"
+/Fo"I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\RiderGameControl.cpp.obj"
+/sourceDependencies I:\Github\ThirdPersonWithCustomGas\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControl\RiderGameControl.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

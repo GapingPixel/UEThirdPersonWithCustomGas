@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\rd.cpp",
+        "Source": "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\rd.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
-            "i:\\unreal projects\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\rd.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
+            "i:\\github\\thirdpersonwithcustomgas\\actionroguelike\\plugins\\developer\\riderlink\\source\\rd\\rd.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\logging\\logmacros.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\containers\\unrealstring.h",
             "j:\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\coretypes.h",
