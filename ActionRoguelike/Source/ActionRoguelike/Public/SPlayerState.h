@@ -6,9 +6,10 @@
 #include "GameFramework/PlayerState.h"
 #include "SPlayerState.generated.h"
 
+class ASPlayerState; // Forward declared to satisfy the delegate macros below
+class USSaveGame;
 DECLARE_DYNAMIC_MULTICAST_DELEGATE_ThreeParams(FOnCreditsChanged, ASPlayerState*, PlayerState, int32, NewCredits, int32, Delta);
 
-class USSaveGame;
 /**
  * 
  */
@@ -19,8 +20,11 @@ class ACTIONROGUELIKE_API ASPlayerState : public APlayerState
 
 protected:
 
-	UPROPERTY(EditDefaultsOnly, Category = "Credits")
+	UPROPERTY(EditDefaultsOnly, ReplicatedUsing="OnRep_Credits",Category = "Credits")
 	int32 Credits;
+
+	UFUNCTION()
+	void OnRep_Credits(int32 OldCredits);
 	
 public:
 
