@@ -33,6 +33,9 @@ class ACTIONROGUELIKE_API USAction : public UObject
 
 protected:
 
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "UI")
+	UTexture2D* Icon;
+
 	UPROPERTY(Replicated)
 	USActionComponent* ActionComp;
 	
@@ -42,18 +45,15 @@ protected:
 	UPROPERTY(EditDefaultsOnly, Category = "Tags")
 	FGameplayTagContainer GrantsTags;
 
-
 	UPROPERTY(EditDefaultsOnly, Category = "Tags")
 	FGameplayTagContainer BlockedTags;
-
 	
-
-	//UPROPERTY()
-	float TimeStarted;
-
 	UPROPERTY(ReplicatedUsing="OnRep_RepData")
 	FActionRepData RepData;
 
+	UPROPERTY(Replicated)
+	float TimeStarted;
+	
 	UFUNCTION()
 	void OnRep_RepData();
 
