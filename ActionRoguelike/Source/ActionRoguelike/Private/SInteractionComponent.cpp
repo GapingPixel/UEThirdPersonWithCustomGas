@@ -13,7 +13,6 @@ USInteractionComponent::USInteractionComponent()
 {
 	
 	PrimaryComponentTick.bCanEverTick = true;
-
 	TraceRadius = 30.0f;
 	TraceDistance = 500.0f;
 	CollisionChannel = ECC_WorldDynamic;

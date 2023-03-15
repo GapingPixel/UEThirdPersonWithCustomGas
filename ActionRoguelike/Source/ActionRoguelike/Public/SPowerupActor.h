@@ -43,6 +43,8 @@ protected:
 public:	
 	// Called every frame
 	void Interact_Implementation(APawn* InstigatorPawn) override;
+	
+	FText GetInteractText_Implementation(APawn* InstigatorPawn);
 
 public:	
 	// Sets default values for this actor's properties

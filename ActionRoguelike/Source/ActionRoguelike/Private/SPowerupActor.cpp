@@ -28,6 +28,11 @@ void ASPowerupActor::Interact_Implementation(APawn* InstigatorPawn)
 	//logic derived class
 }
 
+FText ASPowerupActor::GetInteractText_Implementation(APawn* InstigatorPawn)
+{
+	return FText::GetEmpty();
+}
+
 void ASPowerupActor::OnRep_IsActive()
 {
 	SetActorEnableCollision(bIsActive);
